@@ -1,5 +1,5 @@
 {
-	"name": "colymba/colorfield",
+	"name": "cwchong/silverstripe-colorfield",
 	"type": "silverstripe-vendormodule",
 	"description": "SilverStripe 4 Color picker and DBField field with attitude.",
 	"keywords": ["silverstripe", "silverstripe 4", "color", "colour", "color picker", "colour field", "DBField"],
